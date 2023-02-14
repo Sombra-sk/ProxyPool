@@ -1,8 +1,12 @@
 APScheduler==3.2.0
-werkzeug==0.15.5
+Click==7.0
 Flask==1.0
-requests==2.20.0
-click==7.0
 gunicorn==19.9.0
-lxml
-redis
+lxml==4.8.0
+redis==3.5.3
+requests==2.20.0
+sphinx_rtd_theme==1.2.0
+Werkzeug==0.15.5
+itsdangerous==2.0.1
+markupsafe==2.0.1 
+jinja2==2.11.3 
