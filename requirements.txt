@@ -10,3 +10,5 @@ Werkzeug==0.15.5
 itsdangerous==2.0.1
 markupsafe==2.0.1 
 jinja2==2.11.3 
+pipreqs
+#pipreqs ./ --encoding=utf8 --force
